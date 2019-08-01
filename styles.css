@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #173F5F;
+}
+
+.quote {
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
